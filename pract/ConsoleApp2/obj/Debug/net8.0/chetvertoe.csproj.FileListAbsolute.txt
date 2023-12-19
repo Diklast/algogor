@@ -1,0 +1,14 @@
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\bin\Debug\net8.0\chetvertoe.exe
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\bin\Debug\net8.0\chetvertoe.deps.json
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\bin\Debug\net8.0\chetvertoe.runtimeconfig.json
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\bin\Debug\net8.0\chetvertoe.dll
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\bin\Debug\net8.0\chetvertoe.pdb
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\obj\Debug\net8.0\chetvertoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\obj\Debug\net8.0\chetvertoe.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\obj\Debug\net8.0\chetvertoe.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\obj\Debug\net8.0\chetvertoe.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\obj\Debug\net8.0\chetvertoe.dll
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\obj\Debug\net8.0\refint\chetvertoe.dll
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\obj\Debug\net8.0\chetvertoe.pdb
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\obj\Debug\net8.0\chetvertoe.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\pract\ConsoleApp2\obj\Debug\net8.0\ref\chetvertoe.dll

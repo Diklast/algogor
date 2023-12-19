@@ -1,0 +1,14 @@
+C:\Users\Dmitry\Desktop\pract\pyatoe\bin\Debug\net8.0\pyatoe.exe
+C:\Users\Dmitry\Desktop\pract\pyatoe\bin\Debug\net8.0\pyatoe.deps.json
+C:\Users\Dmitry\Desktop\pract\pyatoe\bin\Debug\net8.0\pyatoe.runtimeconfig.json
+C:\Users\Dmitry\Desktop\pract\pyatoe\bin\Debug\net8.0\pyatoe.dll
+C:\Users\Dmitry\Desktop\pract\pyatoe\bin\Debug\net8.0\pyatoe.pdb
+C:\Users\Dmitry\Desktop\pract\pyatoe\obj\Debug\net8.0\pyatoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\pract\pyatoe\obj\Debug\net8.0\pyatoe.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\pract\pyatoe\obj\Debug\net8.0\pyatoe.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\pract\pyatoe\obj\Debug\net8.0\pyatoe.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\pract\pyatoe\obj\Debug\net8.0\pyatoe.dll
+C:\Users\Dmitry\Desktop\pract\pyatoe\obj\Debug\net8.0\refint\pyatoe.dll
+C:\Users\Dmitry\Desktop\pract\pyatoe\obj\Debug\net8.0\pyatoe.pdb
+C:\Users\Dmitry\Desktop\pract\pyatoe\obj\Debug\net8.0\pyatoe.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\pract\pyatoe\obj\Debug\net8.0\ref\pyatoe.dll

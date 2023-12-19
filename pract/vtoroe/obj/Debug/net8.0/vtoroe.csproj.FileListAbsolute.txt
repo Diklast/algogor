@@ -1,0 +1,14 @@
+C:\Users\Dmitry\Desktop\pract\vtoroe\bin\Debug\net8.0\vtoroe.exe
+C:\Users\Dmitry\Desktop\pract\vtoroe\bin\Debug\net8.0\vtoroe.deps.json
+C:\Users\Dmitry\Desktop\pract\vtoroe\bin\Debug\net8.0\vtoroe.runtimeconfig.json
+C:\Users\Dmitry\Desktop\pract\vtoroe\bin\Debug\net8.0\vtoroe.dll
+C:\Users\Dmitry\Desktop\pract\vtoroe\bin\Debug\net8.0\vtoroe.pdb
+C:\Users\Dmitry\Desktop\pract\vtoroe\obj\Debug\net8.0\vtoroe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\pract\vtoroe\obj\Debug\net8.0\vtoroe.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\pract\vtoroe\obj\Debug\net8.0\vtoroe.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\pract\vtoroe\obj\Debug\net8.0\vtoroe.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\pract\vtoroe\obj\Debug\net8.0\vtoroe.dll
+C:\Users\Dmitry\Desktop\pract\vtoroe\obj\Debug\net8.0\refint\vtoroe.dll
+C:\Users\Dmitry\Desktop\pract\vtoroe\obj\Debug\net8.0\vtoroe.pdb
+C:\Users\Dmitry\Desktop\pract\vtoroe\obj\Debug\net8.0\vtoroe.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\pract\vtoroe\obj\Debug\net8.0\ref\vtoroe.dll

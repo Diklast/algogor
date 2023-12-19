@@ -1,0 +1,14 @@
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\bin\Debug\net8.0\pervoe.exe
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\bin\Debug\net8.0\pervoe.deps.json
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\bin\Debug\net8.0\pervoe.runtimeconfig.json
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\bin\Debug\net8.0\pervoe.dll
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\bin\Debug\net8.0\pervoe.pdb
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\obj\Debug\net8.0\pervoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\obj\Debug\net8.0\pervoe.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\obj\Debug\net8.0\pervoe.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\obj\Debug\net8.0\pervoe.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\obj\Debug\net8.0\pervoe.dll
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\obj\Debug\net8.0\refint\pervoe.dll
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\obj\Debug\net8.0\pervoe.pdb
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\obj\Debug\net8.0\pervoe.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\pract\ConsoleApp1\obj\Debug\net8.0\ref\pervoe.dll

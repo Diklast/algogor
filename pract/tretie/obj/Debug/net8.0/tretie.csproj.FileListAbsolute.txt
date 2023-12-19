@@ -1,0 +1,14 @@
+C:\Users\Dmitry\Desktop\pract\tretie\bin\Debug\net8.0\tretie.exe
+C:\Users\Dmitry\Desktop\pract\tretie\bin\Debug\net8.0\tretie.deps.json
+C:\Users\Dmitry\Desktop\pract\tretie\bin\Debug\net8.0\tretie.runtimeconfig.json
+C:\Users\Dmitry\Desktop\pract\tretie\bin\Debug\net8.0\tretie.dll
+C:\Users\Dmitry\Desktop\pract\tretie\bin\Debug\net8.0\tretie.pdb
+C:\Users\Dmitry\Desktop\pract\tretie\obj\Debug\net8.0\tretie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\pract\tretie\obj\Debug\net8.0\tretie.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\pract\tretie\obj\Debug\net8.0\tretie.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\pract\tretie\obj\Debug\net8.0\tretie.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\pract\tretie\obj\Debug\net8.0\tretie.dll
+C:\Users\Dmitry\Desktop\pract\tretie\obj\Debug\net8.0\refint\tretie.dll
+C:\Users\Dmitry\Desktop\pract\tretie\obj\Debug\net8.0\tretie.pdb
+C:\Users\Dmitry\Desktop\pract\tretie\obj\Debug\net8.0\tretie.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\pract\tretie\obj\Debug\net8.0\ref\tretie.dll
